@@ -4,3 +4,6 @@
 * Pompą można sterować przez **tranzystor**.
 * Do tego można sterować pompą przez **II microbity** *(3 programy)*.
 > link do microsoft makecode
+[tutaj!](https://makecode.microbit.org/#)
+
+### Too
