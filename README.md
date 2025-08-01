@@ -6,4 +6,7 @@
 > link do microsoft makecode
 [tutaj!](https://makecode.microbit.org/#)
 
-### Too
+## Jak pobrać
+* Wejdź w **microsoft makecode** for microbit
+* Po prawej stronie *kliknij* **importuj**
+* Pobierz plik z *github* i wybierz **importuj z komputera** lub *wklej adres URL*
